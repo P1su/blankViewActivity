@@ -7,6 +7,9 @@ android {
     namespace = "com.example.blankviewactivity"
     compileSdk = 33
 
+    viewBinding{
+        enable = true
+    }
     defaultConfig {
         applicationId = "com.example.blankviewactivity"
         minSdk = 24
