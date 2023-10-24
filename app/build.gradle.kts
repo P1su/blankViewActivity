@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.blankviewactivity"
-    compileSdk = 33
+    compileSdk = 34
 
     viewBinding{
         enable = true

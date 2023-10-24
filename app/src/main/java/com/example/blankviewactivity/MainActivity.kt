@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {//made by P1su
 
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        binding.textView.text = num.toString()
     }
 }
