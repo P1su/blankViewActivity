@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "blankViewActivity"
+rootProject.name = "My Application_7"
 include(":app")
  

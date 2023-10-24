@@ -4,14 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.blankviewactivity"
-    compileSdk = 34
+    namespace = "com.example.myapplication_7"
+    compileSdk = 33
 
-    viewBinding{
-        enable = true
-    }
     defaultConfig {
-        applicationId = "com.example.blankviewactivity"
+        applicationId = "com.example.myapplication_7"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
